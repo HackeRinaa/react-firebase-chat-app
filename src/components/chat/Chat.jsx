@@ -58,6 +58,7 @@ const Chat = () => {
           </div>
           <div className="message own">
             <div className="texts">
+              <img src="https://dummyimage.com/600x400/000/fff" className="text-img" alt="" />
               <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec volutpat ante suscipit bibendum ultricies. Praesent at nisi ut lorem vestibulum suscipit sed quis erat. </p>
               <span>1 min ago</span>
             </div>
