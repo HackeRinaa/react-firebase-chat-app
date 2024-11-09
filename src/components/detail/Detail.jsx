@@ -17,12 +17,6 @@ const Detail = () => {
           </div>
           <div className="option">
             <div className="title">
-              <span>Chat Settings</span>
-              <img src="./arrowUp.png" alt="" />
-            </div>
-          </div>
-          <div className="option">
-            <div className="title">
               <span>Privacy & Help</span>
               <img src="./arrowUp.png" alt="" />
             </div>
@@ -63,7 +57,7 @@ const Detail = () => {
             </div>
           </div>
           <button>Block User</button>
-          <button>Logout</button>
+          <button className="logout">Logout</button>
         </div>
       </div>
     );
