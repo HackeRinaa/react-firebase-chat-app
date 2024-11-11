@@ -177,9 +177,7 @@ const Chat = () => {
           </div>
         </div>
         <button
-          className="sendButton"
-          onClick={handleSend}
-          disabled={isCurrentUserBlocked || isReceiverBlocked}
+          className="sendButton" onClick={handleSend} disabled={isCurrentUserBlocked || isReceiverBlocked}
         >
           Send
         </button>
