@@ -13,6 +13,7 @@ User Blocking: Block and unblock users as needed.
 
 ## Demo
 Watch the Demo Video for a complete overview of the app's capabilities.
+[Link Text](https://www.canva.com/design/DAGWLe6XNP8/DamUlXpDcB4FrLGzRdhuPw/edit?utm_content=DAGWLe6XNP8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 
 ## Screenshots
