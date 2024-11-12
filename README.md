@@ -38,9 +38,10 @@ Watch the Demo Video for a complete overview of the app's capabilities.
 Clone the Repository:
 
 `git clone https://github.com/HackeRinaa/react-firebase-app.git`
+
 `cd react-firebase-app`
 
-##Install Dependencies:
+## Install Dependencies:
 
 `npm install`
 
